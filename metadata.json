@@ -1,0 +1,6 @@
+{
+  "name": "Aegis AI: Threat Detector",
+  "description": "An AI-powered cybersecurity tool that analyzes system symptoms to detect potential threats and provides remediation steps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
